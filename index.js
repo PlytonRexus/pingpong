@@ -1,4 +1,4 @@
-alert('hover your mouse pointer on cascade')
+alert('hover your mouse pointer on canvas')
 
 const canvas = document.getElementById("pong");
 
